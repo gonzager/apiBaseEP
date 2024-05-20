@@ -1,4 +1,5 @@
 const {Cliente} = require('../db/models')
+
 const controller = {}
 
 const getAllUser = async (req, res) => {
